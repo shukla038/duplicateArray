@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo : [https://shukla038.github.io/duplicate-array/](https://shukla038.github.io/duplicate-array/)
+Live Demo : [https://shukla038.github.io/duplicateArray/](https://shukla038.github.io/duplicateArray/)
 
 ## Available Scripts
 
